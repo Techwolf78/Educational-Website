@@ -18,7 +18,7 @@ installation command
 # Usage
 For Students to learn and grow by having access to wide study materials. 
 
-## Contributing to Educational Website
+# Contributing to Educational Website
 
 We welcome contributions from the community! To contribute, follow these steps:
 
