@@ -13,7 +13,7 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 
 # Installation 
 installation command
-<br/>  git clone <url>
+<br/>  git clone <"https://github.com/Techwolf78/Educational-Website">
 
 ## Contributing to Educational Website
 
