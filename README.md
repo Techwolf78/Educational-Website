@@ -15,12 +15,12 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 
 Provide step-by-step instructions on how to install your project. Include any prerequisites, dependencies, or configuration settings that users need to be aware of.
 
-```bash
+
 # installation installation command
 npm install cool-project
 
 
-# Contributing to Educational Website
+## Contributing to Educational Website
 
 We welcome contributions from the community! To contribute, follow these steps:
 
