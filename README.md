@@ -1,8 +1,8 @@
-# Cool Project
+# Educational-Website
 
 ## Description
 
-Welcome to Cool Project! This is a [brief description] of your project. Explain what your project does, why it's useful, and any other relevant information that users or contributors might want to know.
+Welcome to Educational Website! This is a educational website using HTML, CSS, and JavaScript to facilitate seamless navigation and optimal user experience. Dedicated blog section, allowing students to access and refer to study materials, articles, and educational resources •	Designed a user-friendly frontend with HTML and CSS to create an intuitive and visually appealing layout for courses. Responsive on various devices.
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ Welcome to Cool Project! This is a [brief description] of your project. Explain 
 Provide step-by-step instructions on how to install your project. Include any prerequisites, dependencies, or configuration settings that users need to be aware of.
 
 ```bash
-# Example installation command
+# installation installation command
 npm install cool-project
 
 
-# Contributing to Cool Project
+# Contributing to Educational Website
 
 We welcome contributions from the community! To contribute, follow these steps:
 
@@ -29,6 +29,6 @@ We welcome contributions from the community! To contribute, follow these steps:
 3. Make your changes and submit a pull request.
 4. Ensure your code passes the tests and adheres to the coding standards.
 
-License
+# License
 This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
 
