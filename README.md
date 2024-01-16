@@ -28,3 +28,7 @@ We welcome contributions from the community! To contribute, follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 4. Ensure your code passes the tests and adheres to the coding standards.
+
+License
+This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+
