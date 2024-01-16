@@ -11,7 +11,8 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 - [Contributing](#contributing)
 - [License](#license)
 
-# installation installation command
+# Installation 
+installation command
 npm install cool-project
 
 ## Contributing to Educational Website
