@@ -13,7 +13,7 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 
 # Installation 
 installation command
-npm install cool-project
+<br/>  git clone <url>
 
 ## Contributing to Educational Website
 
